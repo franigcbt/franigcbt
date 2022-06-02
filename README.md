@@ -1,6 +1,11 @@
 (Description under construction...)
 
-- 👋 Hi, I’m @franigcbt
+### Hi, I’m @franigcbt 👋
+<a href = "https://instagram.com/franigcbt">  
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+
 - 👀 I’m interested in Web Development, App development, Graphic Design, UX/UI, Operating Systems, Digital Art, 3D... 
 - 🌱 I’m currently learning Angular, Tailwind CSS, Firebase.
 
