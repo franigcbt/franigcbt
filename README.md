@@ -3,11 +3,9 @@
 
 - I'm currently working with League of Legends API (Riot Games).
 
-- My favorite tools are: VS Code, Figma, Photoshop, Illustrator, Blender, After Effects.
-
-- I have knowledge in: HTML, CSS, JavaScript, JSX, React.js, Python, Java.
-
 - Currently learning: Node.js
+
+- Website is under construction.
 
 
 
