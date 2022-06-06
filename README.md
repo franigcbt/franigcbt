@@ -3,7 +3,7 @@
 
 - I'm currently working with League of Legends API (Riot Games).
 
-- Currently learning: Node.js
+- Currently learning: Node.js, and improving my skills in React and JS.
 
 - Website under construction.
 
