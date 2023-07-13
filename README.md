@@ -1,12 +1,5 @@
 # 💫Welcome:
-### Hi, I'm Franco Goncebate a Creative Developer and Graphic Designer based in Buenos Aires.
-
-- I'm currently working with League of Legends API (Riot Games).
-
-- Currently learning: Node.js, and improving my skills in React and JS.
-
-- Website under construction.
-
+### Hi, I'm Franco Goncebate a Graphic Designer and programming enthusiast based in Buenos Aires.
 
 
 Feel free to ask me anything, or chat about gaming.
