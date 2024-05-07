@@ -16,8 +16,9 @@ In addition to software development, I also have experience in design and market
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franigcbt/)
 
 ## 🌱 Personal Projects
-[!PridePro](https://github.com/franigcbt/PridePro-Public) (Secure communication between LGBTQ+ community and healthcare professionals) 
-[!PillApp](https://github.com/franigcbt/PillApp-Public/tree/main) (Healthcare App and medication reminder) 
+
+- [PridePro](https://github.com/franigcbt/PridePro-Public) (Secure communication between LGBTQ+ community and healthcare professionals) 
+- [PillApp](https://github.com/franigcbt/PillApp-Public/tree/main) (Healthcare App and medication reminder) 
 
 
 
