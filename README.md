@@ -17,6 +17,8 @@ In addition to software development, I also have experience in design and market
 
 ## 🌱 Personal Projects
 [PridePro](https://github.com/franigcbt/PridePro-Public) (Secure communication between LGBTQ+ community and healthcare professionals) 
+[PillApp](https://github.com/franigcbt/PillApp-Public/tree/main) (Healthcare App and medication reminder) 
+
 
 
 
